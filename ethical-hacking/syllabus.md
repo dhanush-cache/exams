@@ -1,0 +1,97 @@
+# Ethical Hacking Syllabus
+
+- **Unit I: Introduction, Footprinting, Social Engineering, Scanning and Enumeration**
+    - **Introduction**:
+        - Terminology
+        - Hacking Technology Types
+        - Ethical Hacking Phases
+        - Hacktivism
+        - Hacker Classes
+        - Skills Required for an Ethical Hacker
+        - Vulnerability Research
+        - Ways to Conduct Ethical Hacking
+    - **Footprinting**:
+        - Definition
+        - Information Gathering Methodology
+        - Competitive Intelligence
+        - DNS Enumeration
+        - Whois and ARIN Lookups
+        - Types of DNS Records
+        - Traceroute in Footprinting
+        - E-Mail Tracking
+    - **Social Engineering**:
+        - Common Types Of Attacks
+    - **Scanning and Enumeration**:
+        - Port Scanning
+        - Network Scanning
+        - Vulnerability Scanning
+        - CEH Scanning Methodology
+        - Ping Sweep Techniques
+        - Nmap Command Switches
+        - SYN, Stealth, XMAS, NULL, IDLE, FIN Scans
+        - Anonymizers
+        - HTTP Tunneling Techniques
+        - IP Spoofing Techniques
+        - SNMP Enumeration
+        - Steps Involved in Enumeration
+- **Unit II: System Hacking, Sniffers, Denial of Service, Session Hijacking, Hacking Web Servers**
+    - **System Hacking**:
+        - Password-Cracking Techniques
+        - Types of Passwords
+        - Keyloggers and Other Spyware Technologies
+        - Escalating Privileges
+        - Rootkits
+    - **Sniffers**:
+        - Protocols Susceptible to Sniffing
+        - Active and Passive Sniffing
+        - ARP Poisoning
+        - MAC Flooding
+        - DNS Spoofing Techniques
+        - Sniffing Countermeasures
+    - **Denial of Service**:
+        - Types of DoS Attacks
+        - Working of DoS Attacks
+        - BOTs/BOTNETs
+        - “Smurf” Attack
+        - “SYN” Flooding
+        - DoS/DDoS Countermeasures
+    - **Session Hijacking**:
+        - Spoofing vs. Hijacking
+        - Types
+        - Sequence Prediction
+        - Steps
+        - Prevention
+    - **Hacking Web Servers**:
+        - Web Server Vulnerabilities
+        - Attacks against Web Servers
+        - Patch Management Techniques
+        - Web Server Hardening
+- **Unit III: Web Application Vulnerabilities, SQL Injection, Buffer Overflows, Wireless Hacking, Penetration Testing**
+    - **Web Application Vulnerabilities**:
+        - Web Application Hacking
+        - Web Application Threats
+        - Google Hacking
+        - Countermeasures
+    - **Web-Based Password Cracking Techniques**:
+        - Authentication Types
+        - Password Crackers
+        - Countermeasures
+    - **SQL Injection**:
+        - Steps
+        - SQL Server Vulnerabilities
+        - Countermeasures
+    - **Buffer Overflows**:
+        - Types
+        - Stack-Based Buffer Overflows
+        - Mutation Techniques
+    - **Wireless Hacking**:
+        - WEP, WPA Authentication Mechanisms, and Cracking Techniques
+        - Wireless Sniffers
+        - Rogue Access Points
+        - Wireless Hacking Techniques
+        - Securing Wireless Networks
+    - **Penetration Testing Methodologies**:
+        - Methodologies
+        - Steps
+        - Automated Tools
+        - Pen-Test Deliverables

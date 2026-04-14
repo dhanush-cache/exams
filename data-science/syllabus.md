@@ -1,0 +1,61 @@
+# Data Science Syllabus
+
+- **Unit I: Introduction to Data Science and Data Preprocessing**
+    - **What is Data Science?**:
+        - Definition and scope of Data Science
+        - Applications and domains of Data Science
+        - Comparison with other fields like Business Intelligence (BI), Artificial Intelligence (AI), Machine Learning (ML), and Data Warehousing/Data Mining (DW-DM)
+    - **Data Types and Sources**:
+        - Different types of data: structured, unstructured, semi-structured
+        - Data sources: databases, files, APIs, web scraping, sensors, social media
+    - **Data Preprocessing**:
+        - Data cleaning: handling missing values, outliers, duplicates
+        - Data transformation: scaling, normalization, encoding categorical variables
+        - Feature selection: selecting relevant features/columns
+        - Data merging: combining multiple datasets
+    - **Data Wrangling and Feature Engineering**:
+        - Data wrangling techniques: reshaping, pivoting, aggregating
+        - Feature engineering: creating new features, handling time-series data
+        - Dummification: converting categorical variables into binary indicators
+        - Feature scaling: standardization, normalization
+    - **Tools and Libraries**:
+        - Introduction to popular libraries and technologies used in Data Science like Pandas, NumPy, Sci-kit Learn, etc.
+- **Unit II: Data Analysis and Machine Learning**
+    - **Exploratory Data Analysis (EDA)**:
+        - Data visualization techniques: histograms, scatter plots, box plots, etc.
+        - Descriptive statistics: mean, median, mode, standard deviation, etc.
+        - Hypothesis testing: t-tests, chi-square tests, ANOVA, etc.
+    - **Introduction to Machine Learning**:
+        - Supervised learning: classification and regression
+        - Unsupervised learning: clustering and dimensionality reduction
+        - Bias-variance tradeoff, underfitting, and overfitting
+    - **Regression Analysis**:
+        - Simple linear regression
+        - Multiple linear regression
+        - Stepwise regression
+        - Logistic regression for classification
+    - **Model Evaluation and Selection**:
+        - Techniques for evaluating model performance: accuracy, precision, recall, F1-score, Confusion matrix and ROC curve analysis
+        - Cross-validation: k-fold cross-validation, stratified cross-validation
+        - Hyperparameter tuning and model selection
+    - **Machine Learning Algorithms**:
+        - Decision Trees and Random Forests
+        - Support Vector Machines (SVM)
+        - Artificial Neural Networks (ANN)
+        - Ensemble Learning: Boosting and Bagging
+        - K-Nearest Neighbors (K-NN)
+        - Gradient Descent for optimization
+- **Unit III: Model Evaluation, Data Visualization, and Management**
+    - **Model Evaluation Metrics**:
+        - Accuracy, precision, recall, F1-score, Area Under the Curve (AUC)
+        - Evaluating models for imbalanced datasets
+    - **Data Visualization and Communication**:
+        - Principles of effective data visualization
+        - Types of visualizations: bar charts, line charts, scatter plots, etc.
+        - Visualization tools: matplotlib, seaborn, Tableau, etc.
+        - Data storytelling: communicating insights through visualizations
+    - **Data Management**:
+        - Introduction to data management activities
+        - Data pipelines: data extraction, transformation, and loading (ETL)
+        - Data governance and data quality assurance
+        - Data privacy and security considerations

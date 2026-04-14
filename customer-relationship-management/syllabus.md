@@ -1,0 +1,81 @@
+# Customer Relationship Management Syllabus
+
+- **Unit I: Understanding Customer Relationships**
+    - **Introduction to CRM**:
+        - Three forms of CRM
+        - The changing face of CRM
+        - Misunderstandings about CRM
+        - Defining CRM
+        - CRM constituencies
+        - Commercial contexts of CRM
+        - Models of CRM
+        - Understanding relationships
+        - Relationship Quality
+        - Customer life-time value
+        - Customer satisfaction, loyalty and business performance
+        - Relationship management theories
+        - Benefits of CRM
+    - **Managing the customer journey**:
+        - customer acquisition
+        - Portfolio purchasing
+        - Prospecting
+        - Key performance indicators of customer acquisition programs
+        - Operational CRM tools that help customer acquisition
+        - Customer retention
+        - Economics and Strategies of customer retention
+        - Key performance indicators of customer retention programs
+    - **Managing customer-experienced value**:
+        - Understanding value
+        - modeling customer-perceived value, its sources
+        - Customization
+        - Value through the marketing mix
+        - Customer Experience concepts
+        - Service marketing
+        - Total quality management
+        - relationship management
+        - CRM's influence on CX
+        - How CRM software applications influence customer experience
+- **Unit II: Strategic and Operational CRM**
+    - **Customer portfolio management**:
+        - Portfolio
+        - customer
+        - Basic disciplines for CPM
+        - CPM in the business-to-business context
+        - customer portfolio management tools
+        - strategically significant customers
+        - The seven core customer management strategies
+    - **Marketing automation**:
+        - Introduction to marketing automation
+        - Benefits
+        - Software applications for marketing
+        - Sales force automation
+    - **Service automation**:
+        - Introduction
+        - customer service
+        - Modeling service quality
+        - Customer service standards
+        - service automation
+        - Benefits
+        - Software applications for service
+- **Unit III: Analytical CRM**
+    - **Developing and managing customer-related databases**:
+        - Corporate customer-related data
+        - Structured and unstructured data
+        - Developing a customer-related database
+        - Data integration
+        - Data warehousing
+        - Data marts
+        - Analytics for CRM strategy and tactics
+        - Big data analytics
+        - Analytics for structured data
+        - ways to generate analytical insight
+        - Data-mining procedures
+        - Artificial intelligence (AI), machine learning (ML) and deep learning (DL)
+    - **Implementing CRM**:
+        - Introduction
+        - develop the CRM strategy
+        - build CRM project foundations
+        - needs specification and partner selection
+        - project implementation
+        - performance evaluation
+    - **Case studies and success stories related to CRM**

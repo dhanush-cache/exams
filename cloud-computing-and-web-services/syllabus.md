@@ -1,0 +1,62 @@
+# Cloud Computing and Web Services Syllabus
+
+- **Unit I: Cloud Computing Basics**
+    - **Web Services**:
+        - Distributed Computing
+        - Parallel Computing
+        - WSDL structure
+        - SOAP- Structure of SOAP Message (In JAX-WS)
+        - SOAP Messaging Architecture
+        - SOAP Header
+        - Client-side SOAP Handler
+        - REST- What is REST? HTTP methods
+        - Java API for RESTful Web Services (JAX-RS)
+    - **Virtulization**:
+        - Characteristics of Virtualized Environments
+        - Pros and Cons of Virtualization
+        - Virtualization using KVM
+        - Creating virtual machines
+        - oVirt - management tool for virtualization environment
+- **Unit II: Introduction to Cloud Computing**
+    - **Introduction to Cloud Computing**:
+        - Definition
+        - Types of Clouds
+        - Deployment of software solutions and web applications
+        - Types of Cloud Platforms
+        - Essential characteristics – On-demand self-service, Broad network access, Location independent resource pooling, Rapid elasticity, Measured service
+        - Comparing cloud providers with traditional IT service providers
+    - **Cloud Computing Software Security fundamentals**:
+        - Cloud Information Security Objectives
+        - Confidentiality
+        - Integrity
+        - Availability
+        - Cloud Security Services
+        - Relevant Cloud Security Design Principles
+        - Secure Cloud Software Requirements
+        - Secure Development practices
+        - Approaches to Cloud Software Requirement Engineering
+        - Cloud Security Policy Implementation
+- **Unit III: Cloud Applications**
+    - **CloudSim**:
+        - Introduction to Simulator
+        - understanding CloudSim simulator
+        - CloudSim Architecture (User code, CloudSim, GridSim, SimJava)
+        - Understanding Working platform for CloudSim
+    - **OpenStack**:
+        - Introduction to OpenStack
+        - OpenStack test-drive
+        - Basic OpenStack operations
+        - OpenStack CLI and APIs
+        - Tenant model operations
+        - Quotas
+        - Private cloud building blocks
+        - Controller deployment
+        - Networking deployment
+        - Block Storage deployment
+        - Compute deployment
+        - deploying and utilizing OpenStack in production environments
+        - Building a production environment
+        - Application orchestration using OpenStack Heat
+    - **AWS**:
+        - Architecting on AWS
+        - Building complex solutions with Amazon Virtual Private Cloud (Amazon VPC)

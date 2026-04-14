@@ -1,0 +1,62 @@
+# Information Retrieval Syllabus
+
+- **Unit I: Foundations of Information Retrieval**
+    - **Introduction to Information Retrieval (IR) systems**:
+        - Definition and goals of information retrieval
+        - Components of an IR system
+        - Challenges and applications of IR
+    - **Document Indexing, Storage, and Compression**:
+        - Inverted index construction and compression techniques
+        - Document representation and term weighting
+        - Storage and retrieval of indexed documents
+    - **Retrieval Models**:
+        - Boolean model: Boolean operators, query processing
+        - Vector space model: TF-IDF, cosine similarity, query-document matching
+        - Probabilistic model: Bayesian retrieval, relevance feedback
+    - **Spelling Correction in IR Systems**:
+        - Challenges of spelling errors in queries and documents
+        - Edit distance and string similarity measures
+        - Techniques for spelling correction in IR systems
+    - **Performance Evaluation**:
+        - Evaluation metrics: precision, recall, F-measure, average precision
+        - Test collections and relevance judgments
+        - Experimental design and significance testing
+- **Unit II: Advanced Topics in Information Retrieval**
+    - **Text Categorization and Filtering**:
+        - Text classification algorithms: Naïve Bayes, Support Vector Machines
+        - Feature selection and dimensionality reduction
+        - Applications of text categorization and filtering
+    - **Text Clustering for Information Retrieval**:
+        - Clustering techniques: K-means, hierarchical clustering
+        - Evaluation of clustering results
+        - Clustering for query expansion and result grouping
+    - **Web Information Retrieval**:
+        - Web search architecture and challenges
+        - Crawling and indexing web pages
+        - Link analysis and PageRank algorithm
+    - **Learning to Rank**:
+        - Algorithms and Techniques
+        - Supervised learning for ranking: RankSVM, RankBoost, Pairwise and listwise learning to rank approaches
+        - Evaluation metrics for learning to rank
+    - **Link Analysis and its Role in IR Systems**:
+        - Web graph representation and link analysis algorithms
+        - HITS and PageRank algorithms
+        - Applications of link analysis in IR systems
+- **Unit III: Advanced Topics in Information Retrieval (continued)**
+    - **Crawling and Near-Duplicate Page Detection**:
+        - Web page crawling techniques: breadth-first, depth-first, focused crawling
+        - Near-duplicate page detection algorithms
+        - Handling dynamic web content during crawling
+    - **Advanced Topics in IR**:
+        - Text Summarization: extractive and abstractive methods
+        - Question Answering: approaches for finding precise answers
+        - Recommender Systems: collaborative filtering, content-based filtering
+    - **Cross-Lingual and Multilingual Retrieval**:
+        - Challenges and techniques for cross-lingual retrieval
+        - Machine translation for IR
+        - Multilingual document representations and query translation
+        - Evaluation Techniques for IR Systems
+    - **User-based evaluation**:
+        - user studies, surveys
+        - Test collections and benchmarking
+        - Online evaluation methods: A/B testing, interleaving experiments
